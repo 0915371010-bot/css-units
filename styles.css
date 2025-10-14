@@ -1,0 +1,28 @@
+body {
+    background-color: maroon;
+}
+
+.header {
+    background-color: red;
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 1em;
+}
+
+.header a {
+    color: orange;
+    font-size: 1em;
+}
+
+.gallery {
+    background-color: pink;
+}
+
+.gallery img {
+    width: 25%;
+    margin: 2%;
+}
